@@ -7,3 +7,7 @@ to start it:
 ```
 
 then navigate to http://localhost:8080/
+
+## Application diagram
+
+![redux application diagram](https://github.com/runnerdave/react-simple-starter/blob/master/application-diagram.png)
