@@ -1,5 +1,7 @@
 # Redux simple application
 
+Boilerplate app, with react 15, redux, webpack and other little things.
+
 to start it:
 ```
 > npm install
