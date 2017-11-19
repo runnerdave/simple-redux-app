@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import {connect} from 'react-redux';
+import React, { Component } from 'react';
+import { connect } from 'react-redux';
 
 export class BookDetail extends Component {
     render() {
@@ -17,7 +17,7 @@ export class BookDetail extends Component {
     }
 }
 
-function mapStateToProps(state){
+function mapStateToProps(state) {
     return {
         book: state.activeBook
     }
